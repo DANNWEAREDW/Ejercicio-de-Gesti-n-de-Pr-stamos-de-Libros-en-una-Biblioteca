@@ -100,3 +100,10 @@ actualizar_detalles_libro("B001", nuevo_titulo="El Gran Gatsby", nuevo_autor="F.
 # Mostrar libros disponibles después de la actualización
 print("\nLibros disponibles después de la actualización:")
 mostrar_libros_disponibles()
+
+
+
+![image](https://github.com/user-attachments/assets/e83f97a5-d577-4540-8b17-23df5b67bdfa)
+
+![image](https://github.com/user-attachments/assets/a97edd87-09e5-4063-be61-c11855fd1423)
+
